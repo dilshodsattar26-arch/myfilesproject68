@@ -1,0 +1,8 @@
+{
+    "name": "mainroute-service",
+    "version": "1.0.68",
+    "private": false,
+    "environment": "production",
+    "build_id": 357,
+    "allow_public_access": true
+}
